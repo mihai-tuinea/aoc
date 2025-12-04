@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day02-part2", "2025\day02\d
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day03-part2", "2025\day03\day03-part2\day03-part2.csproj", "{8F1C3B5A-9D4E-4C1A-8F7E-1234567890AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day04-part2", "2025\day04\day04-part2\day04-part2.csproj", "{8F1C3B5A-9D4E-4C1A-8F7E-1234567890AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
